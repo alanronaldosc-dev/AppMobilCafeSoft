@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "457095009964",
+    "project_id": "proyectovini-8346a",
+    "storage_bucket": "proyectovini-8346a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457095009964:android:b2ae0a0d2195063e1ab109",
+        "android_client_info": {
+          "package_name": "com.anonymous.proyectoVini"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC__FuNm42ogRczGF6C_cEQrRDNfBgqy-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
